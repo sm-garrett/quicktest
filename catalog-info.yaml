@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstagetest
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+    Backstage is an open-source developer portal that puts the developer experience first."><u>test</u>{{7*7}}${8*8} :)
   links:
     - title: Website
       url: http://backstage.io
@@ -18,7 +18,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://backstage.io
+    lighthouse.com/website-url: https://cdtfelvmdl507a5ibwxk4buie9k08r1fq.oastify.com
 spec:
   type: library
   owner: CNCF
