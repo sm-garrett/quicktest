@@ -21,5 +21,5 @@ metadata:
     lighthouse.com/website-url: url:javascript:alert()
 spec:
   type: library
-  owner: test<u>test
+  owner: test'"><u>test"
   lifecycle: production
