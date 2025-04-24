@@ -20,6 +20,6 @@ metadata:
     backstage.io/techdocs-ref: dir:.<u>test
     lighthouse.com/website-url: url:javascript:alert()
 spec:
-  type: library
+  type: test'"><u>test"
   owner: test'"><u>test"
-  lifecycle: production
+  lifecycle: test'"><u>test"
