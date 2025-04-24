@@ -14,7 +14,7 @@ metadata:
     - title: Discord Chat
       url: https://discord.com/invite/test
     - title: Test <u>test</u>
-      url: javascript:alert()
+      url: https://www.google.com
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
