@@ -13,7 +13,7 @@ metadata:
       url: https://backstage.io/storybook
     - title: Discord Chat
       url: https://discord.com/invite/test
-    - title: Test <u>test</u>
+    - title: Test <u>test</u>{{7*7}}${8*8}
       url: https://www.google.com?x="><u>test</u>
   annotations:
     github.com/project-slug: backstage/backstage
