@@ -1,4 +1,4 @@
-apiVersion: backstage.io/v1alpha1
+apiVersion: backstage.io/v1alpha1test<u>test
 kind: Component
 metadata:
   name: backstagetest
@@ -18,7 +18,7 @@ metadata:
   annotations:
     github.com/project-slug: backstage/backstage
     backstage.io/techdocs-ref: dir:.
-    lighthouse.com/website-url: https://cdtfelvmdl507a5ibwxk4buie9k08r1fq.oastify.com
+    lighthouse.com/website-url: javascript:alert()
 spec:
   type: library
   owner: CNCF
