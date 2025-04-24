@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: backstagetest
   description: |
-    Backstage is an open-source developer portal that puts the developer experience first."><u>test</u>{{7*7}}${8**8} :) ![Uh oh...]("onerror="alert('XSS'))
+    Backstage is an open-source developer portal that puts the developer experience first."><u>test</u>{{7*7}}${8**8} :) ![Uh oh..." xxx="]("onerror=%22alert('XSS'))
   links:
     - title: Website
       url: http://backstage.io
